@@ -1,0 +1,6 @@
+name: ngsld
+channels:
+  - conda-forge
+  - defaults
+  - bioconda
+prefix: /home/mvandewege/miniconda3/envs/ngsld
